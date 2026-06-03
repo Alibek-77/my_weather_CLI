@@ -1,0 +1,92 @@
+[
+  {
+    "city": "Arctic",
+    "temp": 14.17,
+    "feels_like": 13.57,
+    "description": "облачно с прояснениями",
+    "humidity": 74,
+    "wind_speed": 4.31,
+    "visibility": 10000
+  },
+  {
+    "city": "Washington",
+    "temp": 15.81,
+    "feels_like": 15.54,
+    "description": "пасмурно",
+    "humidity": 80,
+    "wind_speed": 3.04,
+    "visibility": 10000
+  },
+  {
+    "city": "Ankara",
+    "temp": 11.23,
+    "feels_like": 9.77,
+    "description": "переменная облачность",
+    "humidity": 52,
+    "wind_speed": 2.68,
+    "visibility": 10000
+  },
+  {
+    "city": "Paris",
+    "temp": 30.96,
+    "feels_like": 31.64,
+    "description": "ясно",
+    "humidity": 45,
+    "wind_speed": 4.63,
+    "visibility": 10000
+  },
+  {
+    "city": "Budapest",
+    "temp": 22.14,
+    "feels_like": 21.3,
+    "description": "ясно",
+    "humidity": 34,
+    "wind_speed": 4.12,
+    "visibility": 10000
+  },
+  {
+    "city": "Aktau",
+    "temp": 19.32,
+    "feels_like": 19.42,
+    "description": "небольшой дождь",
+    "humidity": 81,
+    "wind_speed": 11.05,
+    "visibility": 10000
+  },
+  {
+    "city": "Zhambyl",
+    "temp": 19.54,
+    "feels_like": 18.52,
+    "description": "ясно",
+    "humidity": 37,
+    "wind_speed": 4.21,
+    "visibility": 10000
+  },
+  {
+    "city": "Kaskelen",
+    "temp": 20.15,
+    "feels_like": 19.84,
+    "description": "переменная облачность",
+    "humidity": 62,
+    "wind_speed": 2.55,
+    "visibility": 10000
+  },
+  {
+    "city": "New York",
+    "temp": 24.24,
+    "feels_like": 23.63,
+    "description": "ясно",
+    "humidity": 35,
+    "wind_speed": 5.66,
+    "visibility": 10000
+  },
+  {
+    "city": "Oral",
+    "temp": 12.99,
+    "feels_like": 12.2,
+    "description": "переменная облачность",
+    "humidity": 71,
+    "wind_speed": 4,
+    "visibility": 10000
+  }
+]
